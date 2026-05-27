@@ -1,1 +1,13 @@
-
+transformers
+sentence-transformers
+langchain
+faiss-cpu
+pdfplumber
+python-docx
+pytesseract
+beautifulsoup4
+Pillow
+numpy
+scikit-learn
+torch
+accelerate
